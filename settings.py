@@ -1,0 +1,7 @@
+VALID_EMAIL = 'berezkatatiana+1@gmail.com'
+VALID_PASSWORD = 'KotbDaniel260316!'
+PET_NAME = 'API'
+PET_AGE = 10
+PET_NAME_UPDATED = 'NEW'
+PET_AGE_UPDATED = 3
+COMMENT = "cool"
